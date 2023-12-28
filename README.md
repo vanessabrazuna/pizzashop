@@ -25,11 +25,11 @@ The project was developed using the following technologies
 
 - [ReactJS](https://legacy.reactjs.org)
 - [TypeScript](https://www.typescriptlang.org)
-<!-- - [Tailwindcss](https://tailwindcss.com)
-- [Radix UI](https://www.radix-ui.com/primitives)
-- [Lucide](https://lucide.dev)
-- [Zod](https://zod.dev)
-- [Axios](https://axios-http.com) -->
+- [Tailwindcss](https://tailwindcss.com)
+- [Shadcn/ui](https://ui.shadcn.com/)
+<!-- - [Lucide](https://lucide.dev) -->
+<!-- - [Zod](https://zod.dev) -->
+<!-- - [Axios](https://axios-http.com) -->
 - [Vite](https://vitejs.dev)
 
 ---
