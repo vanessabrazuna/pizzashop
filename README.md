@@ -24,6 +24,7 @@ Dashboard for retailers who have restaurants within delivery apps. Being able to
 The project was developed using the following technologies
 
 - [ReactJS](https://legacy.reactjs.org)
+- [React Router DOM](https://reactrouter.com/en/main)
 - [TypeScript](https://www.typescriptlang.org)
 - [Tailwindcss](https://tailwindcss.com)
 - [Shadcn/ui](https://ui.shadcn.com/)
