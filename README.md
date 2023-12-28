@@ -32,6 +32,7 @@ The project was developed using the following technologies
 - [Lucide](https://lucide.dev)
 - [React Hook Form](https://react-hook-form.com/)
 - [Zod](https://zod.dev)
+- [Sonner](https://sonner.emilkowal.ski/)
 - [Prettier](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
 - [Eslint Import](https://github.com/lydell/eslint-plugin-simple-import-sort)
 - [Eslint](https://eslint.org/)
