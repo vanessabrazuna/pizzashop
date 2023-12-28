@@ -25,6 +25,7 @@ The project was developed using the following technologies
 
 - [ReactJS](https://legacy.reactjs.org)
 - [React Router DOM](https://reactrouter.com/en/main)
+- [React Helmet Async](https://github.com/staylor/react-helmet-async)
 - [TypeScript](https://www.typescriptlang.org)
 - [Tailwindcss](https://tailwindcss.com)
 - [Shadcn/ui](https://ui.shadcn.com/)
