@@ -30,11 +30,12 @@ The project was developed using the following technologies
 - [Tailwindcss](https://tailwindcss.com)
 - [Shadcn/ui](https://ui.shadcn.com/)
 - [Lucide](https://lucide.dev)
+- [React Hook Form](https://react-hook-form.com/)
+- [Zod](https://zod.dev)
 - [Prettier](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
 - [Eslint Import](https://github.com/lydell/eslint-plugin-simple-import-sort)
 - [Eslint](https://eslint.org/)
 - [Vite](https://vitejs.dev)
-<!-- - [Zod](https://zod.dev) -->
 <!-- - [Axios](https://axios-http.com) -->
 
 ---
