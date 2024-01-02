@@ -55,7 +55,7 @@ The project was developed using the following technologies
     $ pnpm install
 
     # Start the project
-    $ pnpm run dev
+    $ pnpm dev
 ```
 
 ---
