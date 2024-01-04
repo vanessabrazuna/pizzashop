@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="PizzaShop" src="#" width="100%">
+  <img alt="PizzaShop" src="https://github-production-user-asset-6210df.s3.amazonaws.com/73675022/294242197-dfc79732-89e5-43ab-9393-171a9ea038c1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240104T163911Z&X-Amz-Expires=300&X-Amz-Signature=acb67ed6119a78a4cddf46c7dd52507070e747cd0ab6caf6f5130c1212fa5f72&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=0" width="100%">
 </p>
 
 # Index
@@ -38,7 +38,6 @@ The project was developed using the following technologies
 - [Eslint Import](https://github.com/lydell/eslint-plugin-simple-import-sort)
 - [Eslint](https://eslint.org/)
 - [Vite](https://vitejs.dev)
-<!-- - [Axios](https://axios-http.com) -->
 
 ---
 
