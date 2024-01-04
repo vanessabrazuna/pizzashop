@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="PizzaShop" src="https://github-production-user-asset-6210df.s3.amazonaws.com/73675022/294242197-dfc79732-89e5-43ab-9393-171a9ea038c1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240104T163911Z&X-Amz-Expires=300&X-Amz-Signature=acb67ed6119a78a4cddf46c7dd52507070e747cd0ab6caf6f5130c1212fa5f72&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=0" width="100%">
+  <img alt="PizzaShop" src="https://github-production-user-asset-6210df.s3.amazonaws.com/73675022/294272354-19256c56-140d-4e6c-b629-28682a344574.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240104T185551Z&X-Amz-Expires=300&X-Amz-Signature=8f2e635a3bc49fd103acec710afaebf2d9d500c31624bf91d073d0cf58d6f026&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=0" width="100%">
 </p>
 
 # Index
