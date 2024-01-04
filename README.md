@@ -29,6 +29,7 @@ The project was developed using the following technologies
 - [TypeScript](https://www.typescriptlang.org)
 - [Tailwindcss](https://tailwindcss.com)
 - [Shadcn/ui](https://ui.shadcn.com/)
+- [Recharts](https://recharts.org/en-US)
 - [Lucide](https://lucide.dev)
 - [React Hook Form](https://react-hook-form.com/)
 - [Zod](https://zod.dev)
