@@ -1,4 +1,3 @@
-import { Ban } from 'lucide-react'
 import { Link } from 'react-router-dom'
 
 import Homer from '@/assets/homer.png'
