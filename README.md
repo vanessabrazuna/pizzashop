@@ -1,6 +1,6 @@
 <h1 align="center">PizzaShop</h1>
 
-<a align="center">![PizzaShop (Community)](https://i.imgur.com/djweH5T.png)</a>
+<a align="center">![PizzaShop (Community)](https://i.imgur.com/Ke8gA9S.png)</a>
 
 # Index
 
