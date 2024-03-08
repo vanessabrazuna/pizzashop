@@ -31,6 +31,7 @@ The project was developed using the following technologies
 - [Zod](https://zod.dev)
 - [Sonner](https://sonner.emilkowal.ski/)
 - [Axios](https://axios-http.com/ptbr/)
+- [React Query](https://tanstack.com/)
 - [Prettier](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
 - [Eslint Import](https://github.com/lydell/eslint-plugin-simple-import-sort)
 - [Eslint](https://eslint.org/)
