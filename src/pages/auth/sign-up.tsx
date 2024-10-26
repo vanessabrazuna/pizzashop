@@ -34,13 +34,12 @@ export function SignUp() {
 
   async function handleSignUp(data: SignUpForm) {
     try {
-      await new Promise((resolve) => setTimeout(resolve, 2000))
-      // await registerRestaurantFn({
-      //   restaurantName: data.restaurantName,
-      //   managerName: data.managerName,
-      //   email: data.email,
-      //   phone: data.phone,
-      // })
+      await registerRestaurantFn({
+        restaurantName: data.restaurantName,
+        managerName: data.managerName,
+        email: data.email,
+        phone: data.phone,
+      })
 
       toast.success('Restaurante cadastrado com sucesso!', {
         action: {
@@ -57,11 +56,11 @@ export function SignUp() {
     <>
       <Helmet title="Cadastro" />
       <div className="p-8">
-        <Button variant="outline" asChild className="absolute right-8 top-8">
+        <Button variant="outline" asChild className="absolute right-12 md:right-8 md:top-8">
           <Link to="/sign-in">Fazer login</Link>
         </Button>
 
-        <div className="flex w-[350px] flex-col justify-center gap-6">
+        <div className="flex w-[350px] flex-col justify-center gap-6 mt-20 md:mt-0">
           <div className="flex flex-col gap-2 text-center">
             <h1 className="text-2xl font-semibold tracking-tight">
               Criar conta grátis
@@ -77,6 +76,7 @@ export function SignUp() {
               <Input
                 id="restaurantName"
                 type="text"
+                className='w-full'
                 {...register('restaurantName')}
               />
             </div>
@@ -86,18 +86,27 @@ export function SignUp() {
               <Input
                 id="managerName"
                 type="text"
+                className='w-full'
                 {...register('managerName')}
               />
             </div>
 
             <div className="space-y-2">
               <Label htmlFor="email">Seu e-mail</Label>
-              <Input id="email" type="email" {...register('email')} />
+              <Input 
+                id="email" 
+                type="email"
+                className='w-full' 
+                {...register('email')} />
             </div>
 
             <div className="space-y-2">
               <Label htmlFor="phone">Seu celular</Label>
-              <Input id="phone" type="tel" {...register('phone')} />
+              <Input 
+                id="phone" 
+                type="tel"
+                className='w-full' 
+                {...register('phone')} />
             </div>
 
             <Button className="w-full" type="submit" disabled={isSubmitting}>

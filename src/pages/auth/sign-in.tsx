@@ -35,8 +35,8 @@ export function SignIn() {
 
   async function handleSignIn(data: SignInForm) {
     try {
-      await new Promise((resolve) => setTimeout(resolve, 2000))
-      // await authenticate({ email: data.email })
+      // await new Promise((resolve) => setTimeout(resolve, 2000))
+      await authenticate({ email: data.email })
 
       toast.success('Enviamos um link de autenticação para seu e-mail.', {
         action: {
@@ -57,7 +57,7 @@ export function SignIn() {
           <Link to="/sign-up">Novo estabelecimento</Link>
         </Button>
 
-        <div className="flex w-[350px] flex-col justify-center gap-6">
+        <div className="flex w-[350px] flex-col justify-center gap-6 mt-20 md:mt-0">
           <div className="flex flex-col gap-2 text-center">
             <h1 className="text-2xl font-semibold tracking-tight">
               Acessar painel

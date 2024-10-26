@@ -20,12 +20,14 @@ export function AccountMenu() {
   const { data: profile, isLoading: isLoadingProfile } = useQuery({
     queryKey: ["profile"],
     queryFn: getProfile,
+    staleTime: Infinity,
   })
 
   const { data: managedRestaurant, isLoading: isLoadingManagedRestaurant } =
     useQuery({
       queryKey: ["managed-restaurant"],
       queryFn: getManagedRestaurant,
+      staleTime: Infinity,
     })
 
   return (
@@ -41,7 +43,6 @@ export function AccountMenu() {
             ) : (
               managedRestaurant?.name
             )}{" "}
-            Pizza Shop
             <ChevronDown className="h-4 w-4" />
           </Button>
         </DropdownMenuTrigger>
@@ -56,11 +57,9 @@ export function AccountMenu() {
               <>
                 <span>
                   {profile?.name}
-                  TesteName
                 </span>
                 <span className="text-xs font-normal text-muted-foreground">
                   {profile?.email}
-                  teste.teste@email.com
                 </span>
               </>
             )}
