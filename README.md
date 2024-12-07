@@ -1,62 +1,84 @@
-<h1 align="center">PizzaShop</h1>
+---
 
-<a align="center">![PizzaShop (Community)](https://i.imgur.com/Ke8gA9S.png)</a>
+<h1 align="center">🍕 PizzaShop</h1>
 
-# Index
+<p align="center">
+  <img src="https://i.imgur.com/Ke8gA9S.png" alt="PizzaShop Dashboard" width="600" />
+</p>
 
-- [About](#-about)
-- [Technologies Used](#-technologies-used)
-- [How to download the project](#-how-to-download-the-project)
-
-
-## 🔖&nbsp; About
-
-Dashboard for retailers who have restaurants within delivery apps. Being able to track metrics, use graphs and track each order individually.
+<p align="center">
+  <b>Gerencie facilmente os pedidos do seu restaurante nos apps de delivery! 🚀</b>
+</p>
 
 ---
 
-## 🚀 Technologies Used
+## 📋 Índice
 
-The project was developed using the following technologies
-
-- [ReactJS](https://legacy.reactjs.org)
-- [React Router DOM](https://reactrouter.com/en/main)
-- [React Helmet Async](https://github.com/staylor/react-helmet-async)
-- [TypeScript](https://www.typescriptlang.org)
-- [Tailwindcss](https://tailwindcss.com)
-- [Shadcn/ui](https://ui.shadcn.com/)
-- [Recharts](https://recharts.org/en-US)
-- [Lucide](https://lucide.dev)
-- [React Hook Form](https://react-hook-form.com/)
-- [Zod](https://zod.dev)
-- [Sonner](https://sonner.emilkowal.ski/)
-- [Axios](https://axios-http.com/ptbr/)
-- [React Query](https://tanstack.com/)
-- [Date-Fns](https://date-fns.org/)
-- [Prettier](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
-- [Eslint Import](https://github.com/lydell/eslint-plugin-simple-import-sort)
-- [Eslint](https://eslint.org/)
-- [Vite](https://vitejs.dev)
+- [📖 Sobre](#-sobre)
+- [🛠 Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [📦 Como Baixar e Rodar o Projeto](#-como-baixar-e-rodar-o-projeto)
+- [👩‍💻 Desenvolvedora](#-desenvolvedora)
 
 ---
 
-## 🗂 How to download the project
+## 📖 Sobre
+
+**PizzaShop** é uma solução para restaurantes e varejistas que trabalham com aplicativos de entrega. Com ele, você pode:
+
+- Monitorar métricas importantes 📊  
+- Visualizar pedidos em tempo real 🕒  
+- Analisar gráficos interativos 📈  
+
+> Tudo isso com uma interface amigável e responsiva!
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+O projeto foi desenvolvido com as seguintes ferramentas e bibliotecas modernas:
+
+- **Frameworks e Bibliotecas**
+  - [ReactJS](https://react.dev) & [TypeScript](https://www.typescriptlang.org)
+  - [React Router DOM](https://reactrouter.com) | [React Query](https://tanstack.com/)
+  - [TailwindCSS](https://tailwindcss.com) & [Shadcn/ui](https://ui.shadcn.com/)
+  - [Recharts](https://recharts.org) | [Lucide Icons](https://lucide.dev)
+
+- **Formulários e Validações**
+  - [React Hook Form](https://react-hook-form.com/) & [Zod](https://zod.dev)
+
+- **Gerenciamento de Estado e API**
+  - [Axios](https://axios-http.com/) | [React Query](https://tanstack.com/)
+
+- **Ferramentas de Desenvolvimento**
+  - [Vite](https://vitejs.dev) | [Date-Fns](https://date-fns.org)
+  - [Eslint](https://eslint.org) | [Prettier com Tailwind Plugin](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
+
+---
+
+## 📦 Como Baixar e Rodar o Projeto
+
+Siga os passos abaixo para rodar o **PizzaShop** localmente:
 
 ```bash
+# Clone este repositório
+$ git clone https://github.com/vanessabrazuna/pizzashop.git
 
-    # Clone the repository
-    $ git clone https://github.com/vanessabrazuna/pizzashop.git
+# Acesse a pasta do projeto
+$ cd pizzashop
 
-    # Enter directory
-    $ cd pizzashop
+# Instale as dependências
+$ pnpm install
 
-    # Install the dependencies
-    $ pnpm install
-
-    # Start the project
-    $ pnpm dev
+# Inicie o servidor de desenvolvimento
+$ pnpm dev
 ```
+
+Pronto! Agora é só acessar [http://localhost:5173](http://localhost:5173) no navegador. 🍕✨
 
 ---
 
-Developed 💜 by Vanessa Brazuna
+## 👩‍💻 Desenvolvedora
+
+Feito com 💜 por **[Vanessa Brazuna](https://github.com/vanessabrazuna)**
+
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/vanessabrazuna) para acompanhar mais projetos incríveis! 🚀
