@@ -1,3 +1,4 @@
+
 ---
 
 <h1 align="center">🍕 PizzaShop</h1>
@@ -17,6 +18,7 @@
 - [📖 Sobre](#-sobre)
 - [🛠 Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [📦 Como Baixar e Rodar o Projeto](#-como-baixar-e-rodar-o-projeto)
+- [🔗 Conexão com o Backend](#-conexão-com-o-backend)
 - [👩‍💻 Desenvolvedora](#-desenvolvedora)
 
 ---
@@ -77,8 +79,35 @@ Pronto! Agora é só acessar [http://localhost:5173](http://localhost:5173) no n
 
 ---
 
+## 🔗 Conexão com o Backend
+
+Para conectar o **PizzaShop** ao backend, siga os passos abaixo:
+
+1. Clone o repositório do backend disponível no link:  
+   [https://github.com/rocketseat-education/pizzashop-api](https://github.com/rocketseat-education/pizzashop-api)
+
+```bash
+# Clone o backend
+$ git clone https://github.com/rocketseat-education/pizzashop-api.git
+
+# Acesse a pasta do backend
+$ cd pizzashop-api
+
+# Instale as dependências
+$ pnpm install
+
+# Inicie o servidor backend
+$ pnpm dev
+```
+
+Por padrão, o servidor backend estará rodando em `http://localhost:3333`. Certifique-se de que o frontend está configurado para acessar esse endpoint.
+
+---
+
 ## 👩‍💻 Desenvolvedora
 
 Feito com 💜 por **[Vanessa Brazuna](https://github.com/vanessabrazuna)**
 
 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/vanessabrazuna) para acompanhar mais projetos incríveis! 🚀
+
+--- 
