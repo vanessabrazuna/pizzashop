@@ -9,7 +9,7 @@ import { GetOrdersResponse } from '@/api/get-orders'
 import { Button } from '@/components/ui/button'
 import { TableCell, TableRow } from '@/components/ui/table'
 import { Dialog, DialogTrigger } from '@/components/ui/dialog'
-import { OrderStatus } from '@/components/order.status'
+import { OrderStatus } from '@/components/order-status'
 
 import { OrderDetails } from './order-details'
 import { approveOrder } from '@/api/approve-order'

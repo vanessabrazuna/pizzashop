@@ -44,6 +44,7 @@ O projeto foi desenvolvido com as seguintes ferramentas e bibliotecas modernas:
   - [React Router DOM](https://reactrouter.com) | [React Query](https://tanstack.com/)
   - [TailwindCSS](https://tailwindcss.com) & [Shadcn/ui](https://ui.shadcn.com/)
   - [Recharts](https://recharts.org) | [Lucide Icons](https://lucide.dev)
+  - [Vitest](https://vitest.dev/)
 
 - **Formulários e Validações**
   - [React Hook Form](https://react-hook-form.com/) & [Zod](https://zod.dev)

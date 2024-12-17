@@ -18,7 +18,7 @@ import {
   TableHeader,
   TableRow,
 } from '@/components/ui/table'
-import { OrderStatus } from '@/components/order.status'
+import { OrderStatus } from '@/components/order-status'
 import { OrderDetailsSkeleton } from './order-details-skeleton'
 
 export interface OrderDetailsProps {
