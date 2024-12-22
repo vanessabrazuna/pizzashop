@@ -46,6 +46,7 @@ O projeto foi desenvolvido com as seguintes ferramentas e bibliotecas modernas:
   - [Recharts](https://recharts.org) | [Lucide Icons](https://lucide.dev)
   - [Vitest](https://vitest.dev/) & [Testing Library](https://testing-library.com/)
   - [Happy Dom](https://github.com/capricorn86/happy-dom) | [MSW](https://mswjs.io/)
+  - [PlayWright](https://playwright.dev/)
 
 - **Formulários e Validações**
   - [React Hook Form](https://react-hook-form.com/) & [Zod](https://zod.dev)
