@@ -44,8 +44,8 @@ O projeto foi desenvolvido com as seguintes ferramentas e bibliotecas modernas:
   - [React Router DOM](https://reactrouter.com) | [React Query](https://tanstack.com/)
   - [TailwindCSS](https://tailwindcss.com) & [Shadcn/ui](https://ui.shadcn.com/)
   - [Recharts](https://recharts.org) | [Lucide Icons](https://lucide.dev)
-  - [Vitest](https://vitest.dev/) | [Testing Library](https://testing-library.com/)
-  - [Happy Dom](https://github.com/capricorn86/happy-dom)
+  - [Vitest](https://vitest.dev/) & [Testing Library](https://testing-library.com/)
+  - [Happy Dom](https://github.com/capricorn86/happy-dom) | [MSW](https://mswjs.io/)
 
 - **Formulários e Validações**
   - [React Hook Form](https://react-hook-form.com/) & [Zod](https://zod.dev)
@@ -78,6 +78,19 @@ $ pnpm dev
 ```
 
 Pronto! Agora é só acessar [http://localhost:5173](http://localhost:5173) no navegador. 🍕✨
+
+---
+
+## 📣 Modo de Teste
+
+Para rodar a aplicação em modo de teste, utilize o seguinte comando:
+
+```bash
+# Inicie o servidor no modo de teste
+$ pnpm dev:test
+```
+
+Isso iniciará o servidor no modo "test" na porta 5178. Certifique-se de que a aplicação esteja configurada para acessar as variáveis de ambiente corretas para esse modo. É só acessar [http://localhost:5178](http://localhost:5178) no navegador.
 
 ---
 
