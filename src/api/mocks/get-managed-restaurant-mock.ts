@@ -12,7 +12,8 @@ export const getManagedRestaurantMock = http.get<
     name: 'Pizza Shop',
     description: 'Custom restaurant description.',
     managerId: 'custom-user-id',
-    createdAt: new Date(),
-    updatedAt: null,
+    createAt: new Date(),
+    updateAt: null,
   })
 })
+
