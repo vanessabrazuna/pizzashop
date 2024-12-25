@@ -4,7 +4,7 @@
 <h1 align="center">🍕 PizzaShop</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/Ke8gA9S.png" alt="PizzaShop Dashboard" width="600" />
+  <img src="https://i.imgur.com/Ke8gA9S.png" alt="PizzaShop Dashboard" width="100%" />
 </p>
 
 <p align="center">
